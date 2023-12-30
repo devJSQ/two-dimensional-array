@@ -1,16 +1,16 @@
-# Two Dimensional Array
+# Two-Dimensional Array
 
 ### Objective
-The project's main focus is understanding two dimensional array, declaring them, accessing their elements using indexes, and performing operations on them.
+The project's main focus is understanding two-dimensional arrays, declaring them, accessing their elements using indexes, and performing operations on them.
 
 ### Problem
-Create a 2D array called `values` with dimensions 10x1 of type **float**.
+Create a 2D array called `values` with 2x3 dimensions of type `float`.
 
 ### Implementation
-- Create an array `values` with dimensions 10x1.
+- Create an array of `values` with 2x3 dimensions.
 - Initialize the array with default values (0.0 for each element).
 - Print the array.
-- Update the value of the second element to a new float value.
+- Choose and update a value in the array.
 - Print the array after updating it.
   
 ``` java
