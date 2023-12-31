@@ -12,7 +12,7 @@ Create a 2D array called `values` with 2x3 dimensions of type `float`.
 - Print the array.
 - Choose and update a value in the array.
 - Print the array after updating it.
-- Print the number of rows and columns.
+- Print the number of rows and columns using the length attribute.
   
 ``` java
 public class Main {
